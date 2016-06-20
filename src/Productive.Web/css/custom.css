@@ -1,0 +1,106 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,500,700,300);
+body {
+	background-color: #FAFAFA;
+	font-family: 'Roboto', sans-serif;
+}
+
+.TopBar{
+	background-color: #fff; 
+	height: 40px;
+	width: 100%;
+	margin-right: 15%;
+}
+
+.TopBar .Buttons{
+	display: inline-block;
+	float: right;
+	margin-right: 5em;
+}
+
+.TopBar .Buttons .AddJob {
+
+}
+
+/* TOP MENU BAR STOJI U JEDNOM REDU :( I JEBE ME) AJDE BAR NEŠTO; Sad počimaju kartice live */
+
+.FreePeopleNow{
+	display: flex;
+}
+.FreePeopleNow h2{
+	text-align: center;
+}
+
+.Card {
+	width: 10%;
+	height: 18em;
+	background-color: #fff;
+	margin-top: 5%;
+	margin-bottom: 8%;
+	margin-left: 3%;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	box-shadow: 0px 10px 100px #cacaca;
+}
+.Card hr {
+	width: 20%;
+	margin-top: 20%;
+}
+.Card .WorkerImg img {
+	position: relative;
+	left: 31%;
+	right: 69%;
+	margin-top: 20%;
+	width: 40%;
+	height: 40%;
+}
+.Card .WorkerName{
+	margin-top: 15%;
+	position: relative;
+	left: 20%;
+	right: 80%;
+	height: 50%;
+	width: 60%; 
+	font-size: 1.3vw;
+	color: #273240;
+	text-align: center;
+}
+.Card .WorkerTitle{
+	position: relative;
+	top: -85px;
+	left: 20%;
+	right: 80%;
+	height: 50%;
+	width: 60%; 
+	font-size: 0.9em;
+	color: #cacaca;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
